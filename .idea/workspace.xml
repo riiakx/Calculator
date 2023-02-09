@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74ca7d55-9158-4ccb-a2f3-88f5a6f0ec78" name="Changes" comment="Creates two variables to take in two numbers">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="74ca7d55-9158-4ccb-a2f3-88f5a6f0ec78" name="Changes" comment="Changes datatype of variables 'num1' and 'num2' from string to int to be able to be used in mathmatical expressions. Also, creates an if statement for the case where the user wishes to use the addition operation." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675973867007</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changes datatype of variables 'num1' and 'num2' from string to int to be able to be used in mathmatical expressions. Also, creates an if statement for the case where the user wishes to use the addition operation.">
+      <created>1675974355588</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675974355588</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +133,7 @@
     <MESSAGE value="Welcomes the user to the project" />
     <MESSAGE value="Creates a menu for the user to select from and takes in user input" />
     <MESSAGE value="Creates two variables to take in two numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creates two variables to take in two numbers" />
+    <MESSAGE value="Changes datatype of variables 'num1' and 'num2' from string to int to be able to be used in mathmatical expressions. Also, creates an if statement for the case where the user wishes to use the addition operation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes datatype of variables 'num1' and 'num2' from string to int to be able to be used in mathmatical expressions. Also, creates an if statement for the case where the user wishes to use the addition operation." />
   </component>
 </project>
