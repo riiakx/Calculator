@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74ca7d55-9158-4ccb-a2f3-88f5a6f0ec78" name="Changes" comment="Appends an additional check on the if statement on the case where the user wishes to use the division operator.">
+    <list default="true" id="74ca7d55-9158-4ccb-a2f3-88f5a6f0ec78" name="Changes" comment="Appends an additional check on the if statement on the case where the user wishes to use the multiplication operator.">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675974732661</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Appends an additional check on the if statement on the case where the user wishes to use the multiplication operator.">
+      <created>1675974801787</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675974801787</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +195,7 @@
     <MESSAGE value="Adds missing white space" />
     <MESSAGE value="Appends an additional check on the if statement on the case where the user wishes to use the subtraction operator." />
     <MESSAGE value="Appends an additional check on the if statement on the case where the user wishes to use the division operator." />
-    <option name="LAST_COMMIT_MESSAGE" value="Appends an additional check on the if statement on the case where the user wishes to use the division operator." />
+    <MESSAGE value="Appends an additional check on the if statement on the case where the user wishes to use the multiplication operator." />
+    <option name="LAST_COMMIT_MESSAGE" value="Appends an additional check on the if statement on the case where the user wishes to use the multiplication operator." />
   </component>
 </project>
